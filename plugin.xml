@@ -14,7 +14,7 @@
         <source-file src="src/android/gizscanqrcode.java" target-dir="src/com/gizscanqrcode" />
 		<source-file src="src/android/PermissionHelper.java"  target-dir="src/com/gizscanqrcode" />
                 <framework src="com.android.support:support-v4:$ANDROID_SUPPORT_V4_VERSION" />
-                <preference name="ANDROID_SUPPORT_V4_VERSION" default="24.1.1+"/>
+                <preference name="ANDROID_SUPPORT_V4_VERSION" default="24.1.1+"/> 
 		<resource-file src="src/android/gizscanqrcode-release.aar" target="libs/gizscanqrcode.aar"/>
     </platform>
     <platform name="ios">
